@@ -1,0 +1,23 @@
+IMAGE CHECKLIST: put these files in the assets/ folder with these exact names.
+Use free-licence photos (Unsplash, Pexels, Pixabay). Choose images that show real
+students, classrooms, or community settings, and check each one is licensed for commercial use.
+
+HOMEPAGE
+  hero.png          Hero banner. Wide landscape, 1920x1000 or larger. Search: "students learning classroom", "teacher helping student"
+  impact-bg.png     Our Impact background. Wide, soft or dark image. Search: "classroom children reading"
+  work-1.png        Our Approach tile 1 (Academic Excellence). Search: "students studying school"
+  work-2.png        Our Approach tile 2 (Student Growth). Search: "children growing confidence school"
+  work-3.png        Our Approach tile 3 (Community Partnership, wide). Search: "parents teacher community school"
+  story-main.png    News featured story. Landscape. Search: "students community event"
+  story-1.png       News list thumbnail 1 (square crop). Search: "school students science"
+  story-2.png       News list thumbnail 2. Search: "students library reading"
+  story-3.png       News list thumbnail 3. Search: "families community school"
+  story-4.png       News list thumbnail 4. Search: "students classroom teacher"
+  cta-bg.png        Final CTA background (optional, faint). Search: "school hallway students"
+
+OUR SCHOOLS PAGE
+  hero-schools.png  Schools hero. Search: "school building students"
+  school-1.png ... school-6.png   One photo per school card, 16:9. Search: "school building exterior", "school classroom students"
+
+Tip: keep each file under about 500 KB so the site loads quickly.
+Remember: if a photo shows a different school or program, do not use it for Achievement First.
